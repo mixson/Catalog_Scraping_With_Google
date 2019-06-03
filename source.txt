@@ -1,0 +1,5 @@
+Panasonic	ET-EMF300
+Panasonic	ET-RMF100
+Shure	MX418S/S
+Shure	MX418D/C
+Shure	PGA48
